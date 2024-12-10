@@ -1,7 +1,7 @@
 name: BlazorWebAssembly
 on:
   push:
-    branches: [ "main" ] 
+    branches: [ "Artificial-Intelligence-and-Data-Science" ] 
 
 jobs:
   build:
